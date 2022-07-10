@@ -1,0 +1,24 @@
+{
+    "db_postgres":{
+        "user":"postgres",
+        "port": 5432,
+        "host":"localhost",
+        "database":"postgres",
+        "password":"ningappa"
+    },
+    "response_code":{
+        "success":600,
+        "field_validation":605,
+        "error":604,
+        "not_found":607,
+        "empty_results":615,
+        "duplication_exception":607,
+        "not_exist":608,
+        "unauthorize":601
+
+    },
+    "token_detials":{
+        "access_key":"access",
+        "refresh_key":"refresh"
+    }
+}
